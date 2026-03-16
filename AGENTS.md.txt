@@ -1,0 +1,12 @@
+Vault Architecture Guide
+
+Stack
+React + Vite
+IndexedDB storage
+Tailwind UI
+Chart.js analytics
+
+Rules
+Do not rewrite project structure.
+Return incremental changes only.
+Never modify vite.config.js or package.json without permission.
